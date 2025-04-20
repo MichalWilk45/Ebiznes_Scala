@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/a2251/Documents/IT_Dev/Ebiznes/Scala/products/project/"), "products-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating products-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved products-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating products-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved products-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of products-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of products-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/a2251/Documents/IT_Dev/Ebiznes/Scala/products/project/"), "products-build")[0m
